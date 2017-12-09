@@ -1,0 +1,2 @@
+npm i -D webpack  // webpack -g i webpack
+npm view webpack version --json
