@@ -1,5 +1,8 @@
 ![](images/cover-pluto-dev-server.png)
 
+[Pluto Solutions](http://www.plutosols.com)
+[Facebook](https://www.facebook.com/plutosols/)
+
 ## Objective
 ```
 Create a readiness dev server ready to setup environment for incoming projects such as React development, etc.
@@ -17,6 +20,3 @@ Create a readiness dev server ready to setup environment for incoming projects s
 
 ## Result
 ![](images/welcome-pluto-dev-server.png)
-
-[Pluto Solutions](http://www.plutosols.com)
-[Facebook](https://www.facebook.com/plutosols/)
