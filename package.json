@@ -1,7 +1,10 @@
 {
   "name": "pluto.dev.server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Setup readniness server for nodejs, javascript development",
+  "repository": {
+    
+  },
   "main": "app.js",
   "scripts": {
     "pluto": "webpack-dev-server",
