@@ -1,5 +1,2 @@
-![](https://github.com/plutosolutions/plutoSolutions-common/blob/master/images/github%20milestones%202/Pluto%20JS%20Server.png)
-
-[Readme](https://github.com/plutosolutions/pluto-javascript-server/wiki) | 
-[Pluto Solutions](http://www.plutosols.com) | 
-[Facebook](https://www.facebook.com/plutosols/) | 
+[Readme](https://github.com/plutosolutions/pluto-javascript-server/wiki)
+![](https://github.com/plutosolutions/plutoSolutions-common/blob/master/images/logo%203d%201280x720/pluto-logo-quartz%201280x720.png)
