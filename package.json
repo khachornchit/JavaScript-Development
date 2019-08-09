@@ -1,15 +1,15 @@
 {
-  "name": "pluto-javascript-server",
+  "name": "javascript-dev",
   "version": "1.0.0",
-  "description": "Setup readniness server for nodejs and javascript development",
+  "description": "JavaScript Development",
   "repository": {},
   "main": "src/app/app.js",
   "scripts": {
-    "plutosols": "webpack-dev-server",
+    "start": "webpack-dev-server",
     "dev": "webpack -d --watch",
     "prod": "webpack -p"
   },
-  "author": "Pluto Solutions <contact@plutosols.com> (http://www.plutosols.com)",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^0.28.7",
